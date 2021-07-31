@@ -1,0 +1,12 @@
+C:\Users\VICTOR\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03.Messages\bin\Release\net5.0\ProjetoAspNetMVC03.Messages.deps.json
+C:\Users\VICTOR\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03.Messages\bin\Release\net5.0\ProjetoAspNetMVC03.Messages.dll
+C:\Users\VICTOR\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03.Messages\bin\Release\net5.0\ref\ProjetoAspNetMVC03.Messages.dll
+C:\Users\VICTOR\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03.Messages\bin\Release\net5.0\ProjetoAspNetMVC03.Messages.pdb
+C:\Users\VICTOR\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03.Messages\obj\Release\net5.0\ProjetoAspNetMVC03.Messages.csproj.AssemblyReference.cache
+C:\Users\VICTOR\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03.Messages\obj\Release\net5.0\ProjetoAspNetMVC03.Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTOR\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03.Messages\obj\Release\net5.0\ProjetoAspNetMVC03.Messages.AssemblyInfoInputs.cache
+C:\Users\VICTOR\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03.Messages\obj\Release\net5.0\ProjetoAspNetMVC03.Messages.AssemblyInfo.cs
+C:\Users\VICTOR\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03.Messages\obj\Release\net5.0\ProjetoAspNetMVC03.Messages.csproj.CoreCompileInputs.cache
+C:\Users\VICTOR\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03.Messages\obj\Release\net5.0\ProjetoAspNetMVC03.Messages.dll
+C:\Users\VICTOR\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03.Messages\obj\Release\net5.0\ref\ProjetoAspNetMVC03.Messages.dll
+C:\Users\VICTOR\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03.Messages\obj\Release\net5.0\ProjetoAspNetMVC03.Messages.pdb
